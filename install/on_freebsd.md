@@ -49,7 +49,7 @@ To avoid building LLVM from source (which can take a long time), you can first i
 
 <div class="code_section">
 {% highlight bash %}
-sudo pkg install -y llvm60
+sudo pkg install -y llvm90
 {% endhighlight bash %}
 </div>
 
